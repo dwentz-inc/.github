@@ -1,12 +1,11 @@
-## Hi there 👋
 
-<!--
+<p align="center">
+  <img width="100" height="auto" src="https://user-images.githubusercontent.com/118625308/215530616-8e84598a-c3cb-4bb7-98fd-53ab82bdd55c.png">
+</P>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">
+Hello there my name is Dwentz™
+<p align="center">
+Node validator and testnet entusias
+<p align="center">
+🌪️Keep learning🌪️
